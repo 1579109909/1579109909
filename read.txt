@@ -1,5 +1,10 @@
 this is my first git readme
 creat a new branch!
+<<<<<<< HEAD
 a new branch
 creat a new branch`
 add 2
+=======
+add 1
+>>>>>>> feature
+add 3
