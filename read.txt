@@ -8,3 +8,4 @@ add 2
 add 1
 >>>>>>> feature
 add 3
+add 4
